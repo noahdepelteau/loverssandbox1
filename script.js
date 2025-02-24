@@ -69,9 +69,9 @@ const contentThree = `<p>Lovers’ Sandbox: Level 3</p>
 
 <p>even though there aren’t any more cars to pass us by.</p>
 
-<p>I splash my boots in the puddles to your thoughtful chatter.</p>
+<p>I splash my boots in the puddles to your thoughtful chatter,</p>
 
-<p>The mud is patterns on my pants that try to describe you.</p>
+<p>the mud in patterns on my pants that try to describe you.</p>
 
 <p>From the top, we can see the whole half-rendered city</p>
 
