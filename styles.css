@@ -550,6 +550,7 @@ z-index: -1;
     /* width:fit-content; */
     min-width: 700px;
     font-size: 1.2rem;
+    height: 80vh;
     /* animation: fadeIn 5s ease-in-out; */
 /*     margin-top:40px */
 
