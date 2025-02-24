@@ -678,10 +678,15 @@ color: white;
     width: 80%;
     padding-left: 50px;
     padding-right:50px;
+    padding-top: 0px;
+    padding-bottom: 0px;
 }
 .essay-video{
     width: 80%;
-    padding: 50px;
+   padding-left: 50px;
+    padding-right:50px;
+       padding-top: 0px;
+    padding-bottom: 0px;
 }
 .bibliography{
     text-indent: hanging;
