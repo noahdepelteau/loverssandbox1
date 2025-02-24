@@ -670,6 +670,9 @@ color: white;
 
    
 }
+.essay p{
+    text-indent: 3em each-line;
+}
 
 .essay-title{
     text-align: center;
