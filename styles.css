@@ -602,6 +602,7 @@ font-style: normal;
     text-shadow: 2px 2px 0px black;
     min-width: 700px;
     filter: blur(0.5px);
+    height: 80vh;
     /* animation: revealLine 8s steps(40) infinite; */
 
 }
