@@ -138,7 +138,7 @@ enter.addEventListener('click',function(event){
 this.classList.remove("active");
 
 console.log("click enter");
-typeText("menu", chatMenu, 10);
+typeText("menu", chatMenu, 20);
 
 
 
@@ -155,7 +155,7 @@ chat.addEventListener('click',function(event){
     this.classList.remove("active");
     chat.classList.remove("active");
     console.log("click chat");
-        typeText("chatContent", chatContent, 10);
+        typeText("chatContent", chatContent, 20);
     });
 
    
