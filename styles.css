@@ -769,7 +769,7 @@ cursor: pointer;
 }
 
 strong{
-    font-style: italic;
+/*     font-style: italic; */
     font-weight: normal;
     /* text-align:; */
 }
