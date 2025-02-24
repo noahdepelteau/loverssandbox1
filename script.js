@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function () {
    
-    function typeText(elementId, text, speed = 10) {
+    function typeText(elementId, text, speed) {
         const element = document.getElementById(elementId);
         if (!element) {
             console.error(`Element with ID "${elementId}" not found.`);
@@ -96,9 +96,9 @@ continue? <a href="essay.html">yes</a> / <a href="index.html">no</a>
 
 
     // Start the typing effect
-    typeText("output1", contentOne);
-    typeText("output2", contentTwo);
-    typeText("output3", contentThree);
+    typeText("output1", contentOne, 30);
+    typeText("output2", contentTwo, 30);
+    typeText("output3", contentThree, 30);
 
 
 
@@ -138,7 +138,7 @@ enter.addEventListener('click',function(event){
 this.classList.remove("active");
 
 console.log("click enter");
-typeText("menu", chatMenu);
+typeText("menu", chatMenu, 10);
 
 
 
@@ -155,7 +155,7 @@ chat.addEventListener('click',function(event){
     this.classList.remove("active");
     chat.classList.remove("active");
     console.log("click chat");
-        typeText("chatContent", chatContent);
+        typeText("chatContent", chatContent, 10);
     });
 
    
