@@ -670,8 +670,8 @@ color: white;
 
    
 }
-.essay p{
-    text-indent: 3em each-line;
+.essay .body{
+    text-indent: 3em;
 }
 
 .essay-title{
@@ -692,7 +692,7 @@ color: white;
     padding-bottom: 0px;
 }
 .bibliography{
-    text-indent: hanging;
+    text-indent: 3em hanging;
 }
 
 @keyframes revealLine {
