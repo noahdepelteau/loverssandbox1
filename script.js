@@ -22,17 +22,17 @@ document.addEventListener("DOMContentLoaded", function () {
         addCharacter();
     }
 
-    const contentTwo = `<p>Lovers’ Sandbox: Level 2</p>
+    const contentTwo = `<p><em>Lovers’ Sandbox: Level 2</em></p>
     <p> </p>
 <p>We’re at Bert’s Bed and Breakfast. Night after night</p>
 <p>your cheeks are the last thing I see before I sleep.</p>
-<p>Goodnight; goodnight. Our cat kisses the tails</p>
+<p><em>Goodnight; goodnight.</em> Our cat kisses the tails</p>
 <p>of doves at the window and your radio buzzes.</p>
 <p>The floor is gopherwood and today we’re thankful.</p>
 <p>You put geranium on the wind like medicine, orange</p>
 <p>moon rendered across our field of view. We dream</p>
-<p>of parent-teacher conferences together. Hi, lover––</p>
-<p>our dialogue goes something like this––how are you?</p>
+<p>of parent-teacher conferences together. <em>Hi, lover––</em></p>
+<p>our dialogue goes something like this––<em>how are you?</em></p>
 <p>I turn down the radio to listen. What with stars,</p>
 <p>with silver. What with you, now. Each morning</p>
 <p>that we rise again is new. I brush your lips in yellow.</p>
@@ -41,7 +41,7 @@ document.addEventListener("DOMContentLoaded", function () {
 </div>
 `;
 
-const contentOne = `<p>Lovers’ Sandbox: Level 1</p>
+const contentOne = `<p><em>Lovers’ Sandbox: Level 1</em></p>
 <p> </p>
             <p>This is a step-up from the empty mall, from that</p>
             <p>pervading smell of leaky pipes and Hollister.</p>
@@ -53,15 +53,15 @@ const contentOne = `<p>Lovers’ Sandbox: Level 1</p>
             <p>in your YouTube comment section. Everything</p>
             <p>remains private ever since the other folks ran out</p>
             <p>of dialogue, but I find it warm that I can reach</p>
-            <p>just you just anywhere. Everything you write</p>
-            <p>finds me well. You often say things like that.</p>
+            <p>just you just anywhere. <em>Everything you write</em></p>
+            <p><em>finds me well.</em> You often say things like that.</p>
 
             <div class="continue">
 continue? <a href="comments.html">yes</a> / <a href="index.html">no</a>
 </div>
 `;
 
-const contentThree = `<p>Lovers’ Sandbox: Level 3</p>
+const contentThree = `<p><em>Lovers’ Sandbox: Level 3</em></p>
 <p> </p>
            <p>Today you show me the way to a lighthouse you found.</p>
 
