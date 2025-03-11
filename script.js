@@ -88,7 +88,7 @@ const contentThree = `<p><em>Lovers’ Sandbox: Level 3</em></p>
 <p>Next time we go, we bring our cat to show him, too.</p>
 
             <div class="continue">
-continue? <a href="essay.html">yes</a> / <a href="index.html">no</a>
+ <a href="index.html">go home</a>
 </div>
 `;
 
