@@ -34,7 +34,7 @@ document.addEventListener("DOMContentLoaded", function () {
 <p>of parent-teacher conferences together. <em>Hi, lover––</em></p>
 <p>our dialogue goes something like this––<em>how are you?</em></p>
 <p>I turn down the radio to listen. What with stars,</p>
-<p>with silver. What with you, now. Each morning</p>
+<p>what with silver. What with you, now. Each morning</p>
 <p>that we rise again is new. I brush your lips in yellow.</p>
 <div class="continue">
     continue? <a href="chat.html">yes</a> / <a href="index.html">no</a>
@@ -47,13 +47,13 @@ const contentOne = `<p><em>Lovers’ Sandbox: Level 1</em></p>
             <p>pervading smell of leaky pipes and Hollister.</p>
             <p>We collect walkie-talkies and underwear to keep</p>
             <p>in our inventory––to take care of everything.</p>
-            <p>You hold my hand; you dive brave in the pool.</p>
+            <p>You hold my hand; you dive sweet in the pool.</p>
             <p>I admit I am glad you are the one I swim with.</p>
             <p>Some days I stay home and write love letters</p>
             <p>in your YouTube comment section. Everything</p>
             <p>remains private ever since the other folks ran out</p>
             <p>of dialogue, but I find it warm that I can reach</p>
-            <p>just you just anywhere. <em>Everything you write</em></p>
+            <p>just you, just anywhere. <em>Everything you write</em></p>
             <p><em>finds me well.</em> You often say things like that.</p>
 
             <div class="continue">
@@ -77,11 +77,11 @@ const contentThree = `<p><em>Lovers’ Sandbox: Level 3</em></p>
 
 <p>all at once: in pieces, we can see Bert’s, and the mall,</p>
 
-<p>and the most famous restaurant in the plains over the hill,</p>
+<p>and the most famous restaurant by the plains over the hill,</p>
 
 <p>and the western-themed saloon in black and white,</p>
 
-<p>and if we turn our heads to clip through the sky in just</p>
+<p>and if we turn our heads to clip through the sky in <em>just</em></p>
 
 <p>the right way, we can see our old yellow house.</p>
 
